@@ -29,7 +29,7 @@ Installation
 Documentation
 -------------
 
-   http://invenio-unapi.readthedocs.org/en/v0.1.1
+   http://invenio-unapi.readthedocs.io/en/v0.1.1
 
 Happy hacking and thanks for flying Invenio-UnAPI.
 

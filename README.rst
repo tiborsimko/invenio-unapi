@@ -46,4 +46,4 @@ Invenio module that implements UnAPI service hooks.
 *This is an experimental development preview release.*
 
 * Free software: GPLv2 license
-* Documentation: https://invenio-unapi.readthedocs.org.
+* Documentation: https://invenio-unapi.readthedocs.io.
